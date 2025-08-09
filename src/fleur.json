@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Buquê de Rosas Vermelhas",
+    "delivery": "Entrega em 2h",
+    "type": "Flor Natural",
+    "description": "Lindo buquê com 12 rosas vermelhas frescas, ideal para presentear em datas românticas como aniversários de casamento ou Dia dos Namorados.",
+    "location": "São Paulo, SP",
+    "price": "R$120,00",
+    "company": {
+      "name": "Floricultura Flores da Estação",
+      "description": "Especializada em flores frescas e arranjos personalizados, a Flores da Estação entrega beleza e carinho em cada detalhe.",
+      "contactEmail": "contato@floresdaestacao.com.br",
+      "contactPhone": "11 5555-5555"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Orquídea Phalaenopsis Branca",
+    "delivery": "No mesmo dia",
+    "type": "Planta em Vaso",
+    "description": "Orquídea branca elegante em vaso de cerâmica. Uma escolha sofisticada para decorar ambientes internos com beleza e delicadeza.",
+    "location": "Rio de Janeiro, RJ",
+    "price": "R$95,00",
+    "company": {
+      "name": "Floricultura Veneer Garden",
+      "description": "A Veneer Garden é conhecida por sua seleção refinada de plantas ornamentais e acessórios de jardinagem de alta qualidade.",
+      "contactEmail": "contato@veneergarden.com.br",
+      "contactPhone": "21 5555-5555"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Kit Jardinagem Básico",
+    "delivery": "Em até 3 dias úteis",
+    "type": "Ferramentas de Jardinagem",
+    "description": "Conjunto com 3 ferramentas: pá, rastelo e tesoura de poda. Ideal para quem está começando no mundo da jardinagem.",
+    "location": "Belo Horizonte, MG",
+    "price": "R$60,00",
+    "company": {
+      "name": "Jardins Dolor",
+      "description": "Com foco em ferramentas práticas e resistentes, a Jardins Dolor oferece soluções completas para cuidados com o jardim.",
+      "contactEmail": "contato@jardinsdolor.com.br",
+      "contactPhone": "31 5555-5555"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Mini Cacto Decorativo",
+    "delivery": "Entrega no dia seguinte",
+    "type": "Planta em Vaso",
+    "description": "Cacto pequeno em vaso de cerâmica colorido. Perfeito para mesas de trabalho ou pequenos espaços com iluminação natural.",
+    "location": "Curitiba, PR",
+    "price": "R$25,00",
+    "company": {
+      "name": "Verde Alpha",
+      "description": "A Verde Alpha combina plantas criativas e acessórios modernos para ambientes urbanos e sustentáveis.",
+      "contactEmail": "contato@verdealpha.com.br",
+      "contactPhone": "41 5555-5555"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Arranjo de Flores do Campo",
+    "delivery": "entrega em até 4h",
+    "type": "Flor Natural",
+    "description": "Arranjo vibrante com flores do campo variadas. Ótimo para presentear ou alegrar qualquer ambiente com um toque natural.",
+    "location": "Porto Alegre, RS",
+    "price": "R$80,00",
+    "company": {
+      "name": "Bela Flora",
+      "description": "A Bela Flora oferece arranjos florais únicos e personalizados, com entrega rápida e flores selecionadas diretamente dos produtores.",
+      "contactEmail": "contato@belaflora.com.br",
+      "contactPhone": "51 5555-5555"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Regador Metálico Vintage",
+    "delivery": "até 5 dias úteis",
+    "type": "Ferramentas de Jardinagem",
+    "description": "Regador com design retrô, fabricado em metal galvanizado. Uma peça charmosa e funcional para regar suas plantas com estilo.",
+    "location": "Florianópolis, SC",
+    "price": "R$45,00",
+    "company": {
+      "name": "Port Garden",
+      "description": "A Port Garden é especializada em acessórios de jardinagem e decoração externa, unindo beleza, durabilidade e funcionalidade.",
+      "contactEmail": "contato@portgarden.com.br",
+      "contactPhone": "48 5555-5555"
+    }
+  }
+]

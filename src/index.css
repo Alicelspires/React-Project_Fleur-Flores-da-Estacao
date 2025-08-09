@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-auburn-700: #611717;
+  --color-auburn-600: #A22626;
+  --color-auburn-500: #E43636;
+  --color-auburn-400: #EB5C5C;
+
+  --color-cookies-cream-700: #726B32;
+  --color-cookies-cream-600: #B0A54E;
+  --color-cookies-cream-500: #E2DDB4;
+  --color-cookies-cream-400: #F6EFD2;
+
+  --color-black: #171717;
+}
