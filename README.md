@@ -71,3 +71,8 @@ npm run build
 ```bash
 npm run preview
 ```
+<div align="center">
+  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Alicelspires.React-Project_Fleur-Flores-da-Estacao&left_color=grey&right_color=black&left_text=Visitors)
+
+</div>
