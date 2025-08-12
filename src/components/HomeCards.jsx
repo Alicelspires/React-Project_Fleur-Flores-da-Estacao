@@ -1,4 +1,5 @@
 import Card from "./Card"
+import {Link} from 'react-router-dom'
 
 export default function HomeCards() {
   return (
@@ -12,23 +13,23 @@ export default function HomeCards() {
                 <p className="mt-2 mb-4">
                     Arranjos especiais para todas as ocasiões
                 </p>
-                <a  href="/presentes"
+                <Link  to="/produtos"
                     className="inline-block bg-auburn-600 text-white rounded-lg px-4 py-2 hover:bg-auburn-700">
                     Ver Opções
-                </a>
+                </Link>
               </Card>
               
-              <Card bg='bg-cookies-cream-400'>
+              <Card bg='bg-cookies-cream-300'>
                 <h2 className="text-2xl font-bold">Assinatura Mensal</h2>
                 <p className="mt-2 mb-4">
                   Receba flores frescas todo mês na sua casa
                 </p>
-                <a
-                  href="/assinatura"
+                <Link
+                  to="/assinatura"
                   className="inline-block bg-auburn-600 text-white rounded-lg px-4 py-2 hover:bg-auburn-700"
                 >
                   Assinar
-                </a>
+                </Link>
               </Card>
 
             </div>

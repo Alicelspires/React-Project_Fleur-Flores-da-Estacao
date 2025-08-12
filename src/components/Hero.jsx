@@ -8,7 +8,7 @@ export default function Hero(props) {
               <h1 className="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl">
                 Flores da Estação
               </h1>
-              <p className="my-4 text-xl text-cookies-cream-500">
+              <p className="my-4 text-xl text-cookies-cream-300">
                 Entrega rápida em toda São Paulo
               </p>
             </div>

@@ -6,10 +6,14 @@
   --color-auburn-500: #E43636;
   --color-auburn-400: #EB5C5C;
 
-  --color-cookies-cream-700: #726B32;
-  --color-cookies-cream-600: #B0A54E;
-  --color-cookies-cream-500: #E2DDB4;
-  --color-cookies-cream-400: #F6EFD2;
+  --color-cookies-cream-800: #524D24;
+  --color-cookies-cream-700: #787135;
+  --color-cookies-cream-600: #918840;
+  --color-cookies-cream-500: #ADA561;
+  --color-cookies-cream-400: #D6CF9B;
+  --color-cookies-cream-300: #ECE6C3;
 
   --color-black: #171717;
+
+  --breakpoint-md-p: 990px;
 }

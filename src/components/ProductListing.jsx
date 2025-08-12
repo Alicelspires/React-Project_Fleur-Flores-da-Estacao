@@ -1,5 +1,6 @@
 import { useState } from "react"
 import { FaHistory } from "react-icons/fa"
+import {Link} from 'react-router-dom'
 
 export default function ProductListing({product}) {
     const [showFullDescription, setShowFullDescription] = useState(false);
@@ -25,19 +26,19 @@ export default function ProductListing({product}) {
                     onClick={() => setShowFullDescription((prevState) => !prevState)}>
                     {showFullDescription ? 'Less': 'More'}
                 </button>
-                <h3 className="text-auburn-600 mb-2">{product.price}</h3>
+                <h3 className="text-cookies-cream-800 font-medium mb-2">{product.price}</h3>
                 <div className="border border-gray-100 mb-5"></div>
                 <div className="flex flex-col lg:flex-row justify-between mb-4">
                     <div className="text-gray-700 mb-3">
                     <FaHistory className="inline text-lg mb-1 mr-1"/>
                     {product.delivery}
                     </div>
-                    <a
-                    href={`/products/${product.id}`}
+                    <Link
+                    to={`/produtos/${product.id}`}
                     className="h-[36px] bg-auburn-600 hover:bg-auburn-700 text-white px-4 py-2 rounded-lg text-center text-sm"
                     >
-                    Comprar
-                    </a>
+                    Saiba mais
+                    </Link>
                 </div>
                 </div>
             </div>
